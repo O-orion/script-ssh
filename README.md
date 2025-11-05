@@ -19,7 +19,7 @@ Antes de usar, dê permissão de execução aos scripts:
 
 ```bash
 chmod +x create.sh load.sh
-´´´
+```
 
 ##🔑 2️⃣ Criar uma Nova Chave SSH
 🧠 Sintaxe:
